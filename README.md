@@ -120,7 +120,7 @@ public Task<VirtualServerModeRowsTaskResult>
 * [Connect a WinForms Data Grid to an ASP.NET Core WebAPI Service Using EF Core — Authorization Code Flow](https://github.com/DevExpress-Examples/connect-winforms-grid-to-dotnetcore-service-enable-auth-code-flow)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=connect-winforms-grid-to-dotnetcore-service&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=connect-winforms-grid-to-dotnetcore-service&~~~was_helpful=no)
 
