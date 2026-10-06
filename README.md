@@ -10,8 +10,8 @@
 
 ## Prerequisites
 
-* [Visual Studio 2022 v17.0+](https://visualstudio.microsoft.com/vs/)
-* [.NET SDK 8.0+](https://dotnet.microsoft.com/en-us/download/dotnet)
+* [Visual Studio IDE](https://visualstudio.microsoft.com/vs/)
+* [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet)
 * Download and run our [Unified Component Installer](https://www.devexpress.com/products/try/) or [add your personal DevExpress NuGet feed URL](https://docs.devexpress.com/GeneralInformation/116042/installation/install-devexpress-controls-using-nuget-packages/obtain-your-nuget-feed-url) to Visual Studio NuGet feeds.
     
     > We recommend that you select all products when you run the DevExpress installer. Doing so will register local NuGet package sources files and item/project templates. You can uninstall unnecessary components at a later time.
